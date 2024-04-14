@@ -19,4 +19,4 @@ Github : To save and store the files for the website. </br>
 
 <a href= "https://ui.dev/amiresponsive"> Am I responsive? </a>: To show the website image on a range of devices.
 
-Github Pages was used to deploy the website: <a href="https://devanshsahni.github.io/Rog-Free/#"> Healthy_yogi</a>
+Github Pages was used to deploy the website: <a href="https://sanika52.github.io/home%20page.html"> Healthy_yogi</a>

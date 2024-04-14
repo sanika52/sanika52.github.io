@@ -5,7 +5,8 @@ It acts as a simplified yoga instructor, so you can follow along at your own pac
 
 It's simple to see and use so that it can be easier for people of any age group to easily browse through the website without any hassle.
 
-![responsive](https://user-images.githubusercontent.com/98885752/189529461-f3269776-a118-41d2-b840-d21772257016.png)
+![Screenshot 2024-04-14 113753](https://github.com/sanika52/sanika52.github.io/assets/165202360/092c0978-1b9c-4be0-a199-59b3d48d11f7)
+
 
 Visit the deployed site: <a href="https://sanika52.github.io/home%20page.html">Healthy_yogi</a>
 
@@ -20,3 +21,19 @@ Github : To save and store the files for the website. </br>
 <a href= "https://ui.dev/amiresponsive"> Am I responsive? </a>: To show the website image on a range of devices.
 
 Github Pages was used to deploy the website: <a href="https://sanika52.github.io/home%20page.html"> Healthy_yogi</a>
+
+# Contributors
+
+Samruddi Kalbhor :&nbsp;
+<a href= "https://github.com/Samruddhikalbhor"> Github </a>   &nbsp;
+<a href= "https://www.linkedin.com/in/samruddhi-kalbhor-6a4b47289"> LinkedIn </a>
+
+
+Siddhi Pardeshi : &nbsp;
+<a href= "https://github.com/Siddhipardeshii"> Github </a> &nbsp;
+<a href= "https://www.linkedin.com/in/siddhi-pardeshi-4329b72a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn </a>
+
+
+Sanika Kolhe :&nbsp;
+<a href= "https://github.com/sanika52"> Github </a>   &nbsp;
+<a href= "https://www.linkedin.com/in/sanika-k-73392a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn </a>

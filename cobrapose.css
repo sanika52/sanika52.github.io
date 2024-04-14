@@ -1,0 +1,54 @@
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-top: 50px;
+    font-size: 30px; 
+}
+body{
+    background-color: #E7DDDC;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 477px;  
+    border: 10px solid #DACAC9; 
+}
+.container{
+  position: relative;
+  text-align: center;
+}
+.top-center{
+    position: absolute;
+    top: 8px;
+    left: 0;
+    right: 0;
+}
+p,ol{
+    font-size: 24px; 
+    font-weight: normal;
+}
+.cobrapose{
+    outline: 10px solid white;
+    margin-top: 35px;
+    margin-left: 400px;
+}
+li{
+    margin-top: 20px;
+}
+.lastelement{
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+}

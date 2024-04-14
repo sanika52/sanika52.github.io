@@ -1,3 +1,4 @@
+#Healthy_yogi
 Healthy-yogi is a website that shows you specialised yoga postures for specific diseases or ailments.
 
 It acts as a simplified yoga instructor, so you can follow along at your own pace whenever and wherever you want.
